@@ -1,3 +1,7 @@
+I got confused by the versioning and had an outdated one so I don't know if this improves anything compared to the extensions version. 
+If it does I'll port this feature over later. For now this does work as a separate thing. just select one psk or psa and it will batch import everything in folder
+
+
 [![Blender](https://img.shields.io/badge/Blender->=2.9-blue?logo=blender&logoColor=white)](https://www.blender.org/download/ "Download Blender")
 [![GitHub release](https://img.shields.io/github/release/DarklightGames/io_scene_psk_psa?include_prereleases=&sort=semver&color=blue)](https://github.com/DarklightGames/io_scene_psk_psa/releases/)
 [![Build Extension](https://github.com/DarklightGames/io_scene_psk_psa/actions/workflows/main.yml/badge.svg)](https://github.com/DarklightGames/io_scene_psk_psa/actions/workflows/main.yml)
